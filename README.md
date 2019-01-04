@@ -1,1 +1,1 @@
-Creates a HTML widget for the first couple shows in a podcast.
+Saves the XML feed to a local file in JSON format so it can be consumed for widget generation by the actual site.
